@@ -1,1 +1,8 @@
-
+<STEPS>
+  <STEPS1>log in<STEPS1>
+   <STEPS2>open chat dialog<STEPS2>
+     <STEPS3>click on settings button - add user</STEPS3>
+     <STEPS4>add any user to the conversation</STEPS4>
+     <STEPS5>try to rename this group conversation</STEPS5>
+  </STEPS>
+<ACTUAL_RESULT>rename button is disabled</ACTUAL_RESULT>
